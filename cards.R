@@ -1,3 +1,4 @@
+# Create a game of cards
 values <- c("A", as.character(2:10), 
     "J", "Q", "K")
 suits <- c("spades", "hearts", "diamonds", 
